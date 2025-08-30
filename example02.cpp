@@ -1,7 +1,8 @@
 
 // ================================================
 //               Language: C++ / Cpp
-//               Topic: User Input  || 👉👉  Example   02
+//               Topic   : [User-Input]
+//               Example : 👉👉 [2]
 // ================================================
 #include <iostream>
 using namespace std;
